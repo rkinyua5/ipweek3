@@ -14,7 +14,7 @@ A landing page for Delani Studio, with a contact section.
 ## How to setup (BDD)
 
 1. Download or clone the project
-``` git clone https://github.com/rkinyua5/Delani-Stuio.git
+``` git clone https://github.com/rkinyua5/ipweek3.git
 ```
 2. Navigate to the cloned or downloaded folder
 3. Open index.html file with your browser
@@ -24,17 +24,17 @@ A landing page for Delani Studio, with a contact section.
 ![Design](./screenshots/design.jpg)
 
 ## Demo
-[Live link](https://rkinyua5.github.io/Delani-Studio/)
+[Live link](https://rkinyua5.github.io/ipweek3/)
 
 ## Screenshot
 ![Screenshot](./screenshots/screenshot.png)
 
 ## Contact
 
-Email: rkinyua@gmail.com
+Email: rkinyua5@gmail.com
 
 ## License
-Copyright (c) 2022 Rachel Kinyua
+Copyright (c) 2022 Rachael Kinyua
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files , to deal
