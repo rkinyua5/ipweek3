@@ -1,0 +1,40 @@
+*{
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    width: 100vw;
+    height: 100vh;
+    background-image: url(/images/backgrounds/h_img.jpg);
+    background-position: bottom;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo{
+    position: absolute;
+    top: 100px;
+    right: 50%;
+
+}
+.header-details{
+    margin-bottom: 50px;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.mouse-click{
+    position: absolute;
+    top: 500px;
+    right: 50%;
+
+}
+
+
+
+
+ 
