@@ -34,7 +34,7 @@ A landing page for Delani Studio, with a contact section.
 Email: rkinyua5@gmail.com
 
 ## License
-Copyright (c) 2022 Rachael Kinyua
+Copyright (c) 2022 Racheal Kinyua
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files , to deal
